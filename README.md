@@ -4,4 +4,14 @@ tabela de site
 
 rede de supermercados 
 
-faturamento do ano foi por volta de 3 
+Lista de produtos da padaria
++----------------+----------+-----------+
+| Produto        | Preço R$ | Quantidade|
++----------------+----------+-----------+
+ Pão Francês         0.50,        100
+
+ Bolo Chocolate     15.00,         20
+ Croissant           3.00,         50
+ Pão de Queijo       1.50,         75
+ Café                4.00,         40
++----------------+----------+-----------+
