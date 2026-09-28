@@ -22,3 +22,33 @@ Lista de produtos da padaria
  Pão de Queijo       1.50,         75
  Café                4.00,         40
 +----------------+----------+-----------+
+
+# 📋 Formulário de Cadastro
+
+**Nome:**  
+Digite seu nome aqui.
+
+**E-mail:**  
+Digite seu e-mail aqui.
+
+**Idade:**  
+Digite sua idade aqui.
+
+## Tipo de solicitação
+
+- [ ] Suporte
+- [ ] Sugestão
+- [ ] Relatar um problema
+- [ ] Outro
+
+## Descrição
+
+Explique sua solicitação abaixo:
+
+> Escreva aqui...
+
+## Confirmação
+
+- [ ] Li e confirmei as informações acima.
+
++----------------+----------+-----------+
