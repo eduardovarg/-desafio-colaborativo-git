@@ -51,3 +51,15 @@ Explique sua solicitação abaixo:
 - [ ] Li e confirmei as informações acima.
 
 +----------------+----------+-----------+
+Nosso Grupo 
+[Seu Nome]
+Função: Apresentação dos Membros
+
+[Nome do Colega]
+Função: [Função dele no trabalho]
+
+[Nome do Colega]
+Função: [Função dele no trabalho]
+
+[Nome do Colega]
+Função: [Função dele no trabalho]
