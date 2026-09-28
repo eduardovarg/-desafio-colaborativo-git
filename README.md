@@ -2,6 +2,6 @@
 
 tabela de site
 
-Rede de super mercado
+rede de supermercados 
 
-valor de ganhos 5mi ao ano
+faturamento do ano foi por volta de 3 mi
